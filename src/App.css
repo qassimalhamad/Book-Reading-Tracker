@@ -1,0 +1,8 @@
+/* src/App.css */
+.read {
+  text-decoration: line-through;
+}
+
+.not-read {
+  color: red;
+}
